@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CepKasam</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="textview">TextView</string>
+</resources>

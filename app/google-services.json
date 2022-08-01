@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "927622072700",
+    "project_id": "androidprojelerim-2022",
+    "storage_bucket": "androidprojelerim-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927622072700:android:f495a25cd88ba0a428bcf9",
+        "android_client_info": {
+          "package_name": "com.ozcakirh.cepkasam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927622072700-1mif2p6cvp81iisfog4v13jcro0pdmdq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ozcakirh.cepkasam",
+            "certificate_hash": "2ce4cfe4ef2a9af038ae0d6bad697800e4d1da9a"
+          }
+        },
+        {
+          "client_id": "927622072700-75pltkv72gpal2qcjc3kopjhs2kq5632.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmblKE3lhHQBKX_728Wkw92hou0pZYrQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927622072700-75pltkv72gpal2qcjc3kopjhs2kq5632.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
