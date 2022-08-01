@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Program Files\\Java\\jre1.8.0_341\\bin\\daemon\\7.3.3\\com.ozcakirh.cepkasam.app-mergeDebugResources-5:\\layout\\activity_main.xml",
+        "source": "C:\\Program Files\\Java\\jre1.8.0_341\\bin\\daemon\\7.3.3\\com.ozcakirh.cepkasam.app-main-8:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.ozcakirh.cepkasam.app-mergeDebugResources-5:/layout/activity_main.xml",
+        "source": "com.ozcakirh.cepkasam.app-main-8:/layout/activity_main.xml"
+    }
+]

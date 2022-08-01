@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-measurement-impl:21.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0089a1952130417c45199ec261232f75/transformed/play-services-measurement-impl-21.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../Program Files/Java/jre1.8.0_341/bin/caches/transforms-3/0089a1952130417c45199ec261232f75/transformed/play-services-measurement-impl-21.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/jre1.8.0_341/bin/caches/transforms-3/16435d28c1fc699d03e9cd993d28815d/transformed/play-services-measurement-impl-21.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../Program Files/Java/jre1.8.0_341/bin/caches/transforms-3/16435d28c1fc699d03e9cd993d28815d/transformed/play-services-measurement-impl-21.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../Program Files/Java/jre1.8.0_341/bin/caches/transforms-3/16435d28c1fc699d03e9cd993d28815d/transformed/play-services-measurement-impl-21.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/jre1.8.0_341/bin/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-impl/21.1.0/e7391bfb8dcfcd6dbab5ce97c52827fe8273ba98/play-services-measurement-impl-21.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
